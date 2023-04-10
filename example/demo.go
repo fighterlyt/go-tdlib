@@ -9,7 +9,7 @@ import (
 	"syscall"
 
 	"github.com/joho/godotenv"
-	"github.com/zelenin/go-tdlib/client"
+	"github.com/fighterlyt/go-tdlib/client"
 )
 
 func main() {

@@ -8,8 +8,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/zelenin/go-tdlib/codegen"
-	"github.com/zelenin/go-tdlib/tlparser"
+	"github.com/fighterlyt/go-tdlib/codegen"
+	"github.com/fighterlyt/go-tdlib/tlparser"
 )
 
 type config struct {

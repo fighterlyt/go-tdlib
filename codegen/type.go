@@ -3,7 +3,7 @@ package codegen
 import (
 	"bytes"
 	"fmt"
-	"github.com/zelenin/go-tdlib/tlparser"
+	"github.com/fighterlyt/go-tdlib/tlparser"
 )
 
 func GenerateTypes(schema *tlparser.Schema, packageName string) []byte {
